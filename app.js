@@ -7,7 +7,7 @@ const ttl = require('mongoose-ttl');
 const app = express();
 app.use(bodyParser.urlencoded({extended: true}));
 
-mongoose.connect("mongodb+srv://Hitesh:Hitesh@cluster0.h5cpx.mongodb.net/userDB", {useNewUrlParser: true,useUnifiedTopology: true});
+mongoose.connect("---------------API-------------------------------", {useNewUrlParser: true,useUnifiedTopology: true});
 mongoose.set("useCreateIndex", true);
 
 const userSchema = new mongoose.Schema ({
