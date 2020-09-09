@@ -3,7 +3,7 @@ USAGE
    
    
    
-   1.  https://hitesh1234tre.herokuapp.com/list
+       1.https://hitesh1234tre.herokuapp.com/list
         - gets all list items
         
       
@@ -21,5 +21,6 @@ Daily Progress
     DAY-1
     ---
     - setup express sever and mongodb , added end points ,used MongoDB to setup database (TTL to delete node )
+    - tested using postman
     - Pushed on github
     - pushed on heroku
