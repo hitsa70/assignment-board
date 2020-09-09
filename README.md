@@ -18,9 +18,9 @@ USAGE
            -   createdAt : time of creation (Auto generated)
 
 Daily Progress
-    DAY-1
-    ---
-    - setup express sever and mongodb , added end points ,used MongoDB to setup database (TTL to delete node )
-    - tested using postman
-    - Pushed on github
-    - pushed on heroku
+            DAY-1
+             ---
+             - setup express sever and mongodb , added end points ,used MongoDB to setup database (TTL to delete node )
+             - tested using postman
+             - Pushed on github
+             - pushed on heroku
