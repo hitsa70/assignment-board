@@ -3,13 +3,13 @@ USAGE
    
    
    
-       1.https://hitesh1234tre.herokuapp.com/list
+    1.https://hitesh1234tre.herokuapp.com/list
         - gets all list items
         
       
-
+     
     2.  https://hitesh1234tre.herokuapp.com/add (and then values in URL encoded form )- POST
-        - accepted paraments
+        - accepted paraments ->
             - _id  : Unique id of task (auto generated)
             -  name : task name
             -  description : add a description here
